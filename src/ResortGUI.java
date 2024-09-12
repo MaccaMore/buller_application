@@ -10,8 +10,7 @@ import java.awt.event.ActionListener;
 import java.io.*;
 import java.util.ArrayList;
 
-// Welcome to my big ball of Mud!
-// When I am done with semester I will refactor in my own time to MVC, I am struggling to wrap my head around that.
+
 
 public class ResortGUI extends JFrame implements ActionListener {
     // Resources
